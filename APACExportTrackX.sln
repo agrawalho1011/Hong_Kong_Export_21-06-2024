@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APACExportTrackX", "APACExportTrackX\APACExportTrackX.csproj", "{E71E908E-5AA6-475A-A514-01F7F2737257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		HongkongExportTrackX|Any CPU = HongkongExportTrackX|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71E908E-5AA6-475A-A514-01F7F2737257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71E908E-5AA6-475A-A514-01F7F2737257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71E908E-5AA6-475A-A514-01F7F2737257}.HongkongExportTrackX|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71E908E-5AA6-475A-A514-01F7F2737257}.HongkongExportTrackX|Any CPU.Build.0 = Debug|Any CPU
+		{E71E908E-5AA6-475A-A514-01F7F2737257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71E908E-5AA6-475A-A514-01F7F2737257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB335E3-78B1-416B-B067-8AAF0F6226FF}
+	EndGlobalSection
+EndGlobal
